@@ -1,0 +1,15 @@
+ClientLoginTest.class
+CreateBadCourier.class
+OrderBadCreationTest.class
+GetOrderByClientTest.class
+URL.class
+ClientRegistation.class
+ClientRegistationTest.class
+ClientLogin.class
+BadClientLoginTest.class
+ClientBadRegistationTest.class
+BadClientRegistation.class
+ClientChangingTest.class
+Order.class
+OrderCreationTest.class
+ClientChangingBadTest.class
